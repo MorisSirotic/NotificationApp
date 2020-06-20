@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TestCustomView">
+        <attr name="addImage" format="reference" />
+        <attr name="removeImage" format="reference" />
+        <attr name="textInput" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="RatingsView">
+        <attr name="fbText" format="string" localization="suggested" />
+    </declare-styleable>
+
+
+</resources>
